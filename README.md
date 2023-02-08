@@ -2,8 +2,5 @@
 - 👀 I’m interested in new things from the world of programming
 - 🌱 I’m currently learning more from Frontend/Backend Developer!
 - 📫 How to reach me cinthiacorrea617@gmail.com
+- Skills Html/Css/Javascript/Jquey/Boostrap/Json/Axaj/SQL/Php
 
-<!---
-CinthiaCorrea/CinthiaCorrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
